@@ -7,7 +7,7 @@ Designed with a premium glassmorphism UI, smooth animations, and interactive fea
 
 ## 🌐 Live Demo
 
-👉 [https://kumarsubodh12.github.io/ecommerce-site/](https://kumarsubodh12.github.io/E-COM-SYS/)
+👉 [https://PawanSB-byte.github.io/ecommerce-site/](https://PawanSB-byte.github.io/E-COM-SYS/)
 
 ---
 
@@ -55,7 +55,7 @@ ecommerce-site/
 1. Clone the repository:
 
 ```id="x43lre"
-git clone https://github.com/kumarsubodh12/ecommerce-site.git
+git clone https://github.com/PawanSB-byte/ecommerce-site.git
 ```
 
 2. Open the folder
@@ -81,7 +81,7 @@ index.html
 
 ## 👨‍💻 Author
 
-**Subodh Kumar**
+**Pawan**
 
 ---
 
